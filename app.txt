@@ -1,0 +1,3 @@
+app
+-saya belajar penggunaan gethub untuk app prakerja
+-membuat aplikasi sederhana
